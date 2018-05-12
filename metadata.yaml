@@ -1,0 +1,31 @@
+_repo: History-of-Civilization-in-England-Vol.-3-of-3_44495
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44495-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Buckle, Henry Thomas
+    birthdate: 1821
+    deathdate: 1862
+    gutenberg_agent_id: '42798'
+    url: http://www.gutenberg.org/2009/agents/42798
+description: ''
+gutenberg_issued: '2013-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CB'
+- !lcsh 'France -- Civilization'
+- !lcsh 'Great Britain -- Civilization'
+- !lcsh 'Spain -- Civilization'
+- !lcsh 'Scotland -- History'
+- !lcsh 'England -- Civilization'
+- !lcsh 'Civilization -- History'
+title: History of Civilization in England, Vol. 3 of 3
+url: http://www.gutenberg.org/ebooks/44495
