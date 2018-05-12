@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42798'
     url: http://www.gutenberg.org/2009/agents/42798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44495#History-of-Civilization-in-England-Vol.-3-of-3
 gutenberg_issued: '2013-12-28'
 gutenberg_type: Text
 identifiers:
